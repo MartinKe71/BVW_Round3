@@ -6,6 +6,7 @@ In this game, two players will be collaborating to get our drunk protagonists in
 
 ## My contribution to this project
 #### Dpad controller on the phone
+![](Images/controller.jpg)
 #### Cooperated with another programmer on movement control
 
 #### Chat messages from the Ubeer driver
