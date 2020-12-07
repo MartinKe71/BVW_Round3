@@ -5,11 +5,11 @@ In this game, two players will be collaborating to get our drunk protagonists in
 
 
 ## My contribution to this project
-#### Dpad controller on the phone
-![](Images/controller.jpg)
-#### Cooperated with another programmer on movement control
-![](Images/movement.gif)
-#### Chat messages from the Ubeer driver
+<h4> Dpad controller on the phone <h4/>
+<img src="Images/controller.jpg" width="540"/>
+<h4> Cooperated with another programmer on movement control <h4/>
+<img src="Images/movement.gif" width="540"/>
+<h4> Chat messages from the Ubeer driver <h4/>
 
 ## Click the image to watch the full gameplay video!
 This is the one-week project I made for BVW course at CMU ETC. It was built with WebGL and used AirConsole for multi-player game.
