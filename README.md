@@ -8,7 +8,7 @@ In this game, two players will be collaborating to get our drunk protagonists in
 #### Dpad controller on the phone
 ![](Images/controller.jpg)
 #### Cooperated with another programmer on movement control
-
+![](Images/movement.gif)
 #### Chat messages from the Ubeer driver
 
 ## Click the image to watch the full gameplay video!
