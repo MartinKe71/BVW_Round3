@@ -1,4 +1,4 @@
-# BVW_Round3
+# BVW_Round3-DrunkoBrunko
 This is a one-week project for BVW course at CMU ETC with a group of 4. We used Airconsole plugin so that players can play together on the same screen and use their phones as controllers. 
 
 In this game, two players will be collaborating to get our drunk protagonists in a horse costume to the door in a party. One player will be controlling the front person, and the other player will be controlling the back person.
